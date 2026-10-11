@@ -1,5 +1,5 @@
 import "./NavigationBar.css"
-import profileImage from "../assets/NavigationBar-profile-image.jpeg"
+import profileImage from "../../assets/pictures/NavigationBar-profile-image.jpeg"
 
 function NavigationBar(){
     return (
